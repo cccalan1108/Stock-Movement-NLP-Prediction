@@ -86,14 +86,7 @@ pip install -r requirements.txt
 ## 📽 Demo & Report
 
 - [📊 Slide deck]([https://drive.google.com/...](https://reurl.cc/EVbR9v)
-- [📹 Presentation video]([https://drive.google.com/...](https://reurl.cc/1Kkm5X))
-
----
-
-## 👥 Team
-
-張鈞傑、張鈞翔、黃于軒、楊好涵、程怡慈、林雨潔  
-NTU Big Data Analytics | April 2024
+- [📹 Presentation video](https://reurl.cc/1Kkm5X)
 
 ---
 
