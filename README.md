@@ -85,8 +85,8 @@ pip install -r requirements.txt
 
 ## 📽 Demo & Report
 
-- [📊 Slide deck](https://drive.google.com/...)
-- [📹 Presentation video](https://drive.google.com/...)
+- [📊 Slide deck]([https://drive.google.com/...](https://reurl.cc/EVbR9v)
+- [📹 Presentation video]([https://drive.google.com/...](https://reurl.cc/1Kkm5X))
 
 ---
 
