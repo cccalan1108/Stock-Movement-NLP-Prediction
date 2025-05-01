@@ -1,8 +1,8 @@
 # 📈 Social Media-Driven Stock Movement Prediction
 
-This is a project for the NTU Big Data Analytics (BDA) course. Our team aimed to predict short-term stock price movements using social sentiment data collected from online forums and financial articles, with a focus on Taiwan Semiconductor Manufacturing Company (TSMC, 2330.TW).
+This is a project for the National Taiwan University (NTU) Big Data Analytics (BDA) course. Our team aimed to predict short-term stock price movements using social sentiment data collected from online forums and financial articles, with a focus on Taiwan Semiconductor Manufacturing Company (TSMC, 2330.TW).
 
-這是一個為了台灣大學大數據分析（Big Data Analytics, BDA）課程所進行的專案。我們的團隊目標是利用從網路論壇與財經新聞中蒐集的社群情緒資料，預測股票的短期價格變化，研究重點聚焦於台積電（TSMC, 股票代碼：2330.TW）。
+台灣大學大數據分析（Big Data Analytics, BDA）課程專案。我們的團隊目標是利用從網路論壇與財經新聞中蒐集的社群情緒資料，以 NLP 機器學習模型訓練並預測股表漲跌、並進行回測，預測股票的短期價格變化，研究重點聚焦於台積電（TSMC, 股票代碼：2330）。
 ---
 
 ## 📌 Project Overview
